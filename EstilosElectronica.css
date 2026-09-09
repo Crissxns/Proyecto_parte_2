@@ -6,4 +6,9 @@ h1{
 }
 .padre{
     display: flex;
+
+}
+.num1{
+    margin-left: 2%;
+    
 }
