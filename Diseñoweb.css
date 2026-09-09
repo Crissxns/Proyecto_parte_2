@@ -1,4 +1,4 @@
-body{
+#fondo{
     background-color: #a9d6e5;
 }
 #titulo{
@@ -8,4 +8,17 @@ body{
     text-align: center;
     text-shadow: 3px 3px 3px #000000;
     color: #014f86;
+}
+#descripcion{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #2a6f97;
+    width: 85%;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+#tarjetas{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
 }
