@@ -1,0 +1,11 @@
+body{
+    background-color: #a9d6e5;
+}
+#titulo{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #012a4a;
+    width: 85%;
+    text-align: center;
+    text-shadow: 3px 3px 3px #000000;
+    color: #014f86;
+}
