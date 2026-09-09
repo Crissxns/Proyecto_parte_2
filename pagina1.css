@@ -1,6 +1,3 @@
-body{
-    background-color: #81b29a;
-}
 #titulo{
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: #40916c;
@@ -51,4 +48,8 @@ body{
     width: 70%;
     text-align: center;
     border-radius: 10px;
+}
+
+#prueba {
+    background-color: #81b29a;
 }
