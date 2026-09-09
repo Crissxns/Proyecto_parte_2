@@ -45,3 +45,10 @@ body{
 .carrusel-item:hover {
   transform: scale(1.2);
 }
+#temas {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #006400;
+    width: 70%;
+    text-align: center;
+    border-radius: 10px;
+}
