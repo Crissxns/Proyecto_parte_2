@@ -4,7 +4,14 @@ body{
 #titulo{
     font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: #40916c;
-    width: 50%;
+    width: 70%;
+    text-align: center;
+    border-radius: 10px;
+}
+.descripcion{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #40916c;
+    width: 70%;
     text-align: center;
     border-radius: 10px;
 }
