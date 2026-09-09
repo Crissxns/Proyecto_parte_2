@@ -4,6 +4,8 @@
     width: 70%;
     text-align: center;
     border-radius: 10px;
+    text-shadow: 3px 3px 3px #000000;
+    color: #2c6e49;
 }
 .descripcion{
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -52,4 +54,17 @@
 
 #prueba {
     background-color: #81b29a;
+}
+
+.arduino{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: #40916c;
+    width: 70%;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 15px;
+}
+.arduino h2{
+    color: #004b23;
+    text-shadow: 3px 3px 3px #000000;
 }
